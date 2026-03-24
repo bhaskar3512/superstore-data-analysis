@@ -21,4 +21,4 @@ This project analyzes sales, profit, and customer trends using Python.
 - Superstore Sales Dataset
 
 ## 🚀 Project Type
-Data Analytics | Beginner to Intermediate Level
+Data Analytics | Intermediate Level
